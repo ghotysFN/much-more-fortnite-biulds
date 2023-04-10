@@ -19,9 +19,9 @@ Credit: Anyone can post these anywhere, just make sure to give proper credit!
 # Pre-BattleRoyale
 | Build                  	 | Date          	 | Engine Version	    |		    Link             |
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| OT6.5-CL-2870186        	 |  28-02-16	   	 | UE4.12-2870186	    |		Not Uploaded (Yet)|
-| Cert-CL-3532353                | 20-07-17              | UE4.16-3532353           | Not Uploaded (Yet) |
-| 1.2-CL-3541083         	 |  21-07-17      	 | UE4.16-3541083	    |		Not Uploaded (Yet)|
+|=	Not Uploaded (Yet)
+| Not Uploaded (Yet) |
+		Not Uploaded (Yet)|
 
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Link             |
