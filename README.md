@@ -57,7 +57,7 @@ Credit: Anyone can post these anywhere, just make sure to give proper credit!
 | 4.1-CL-4053532          	| 08-05-18       	 | UE4.20-4053532	    |		https://builds.simplyblk.com/4.1.zip|
 | 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://builds.simplyblk.com/4.2.zip|
 | 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |           https://builds.simplyblk.com/4.4.rar|
-| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		Couldn't get the build.|
+| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		https://rebrand.ly/4_4_1|
 | 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://builds.simplyblk.com/4.5.rar|
 
 # Season 5
