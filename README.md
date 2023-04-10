@@ -21,7 +21,7 @@ Credit: Anyone can post these anywhere, just make sure to give proper credit!
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
 |=	Not Uploaded (Yet)
 | Not Uploaded (Yet) |
-		Not Uploaded (Yet)|
+|Not Uploaded (Yet)
 
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Link             |
