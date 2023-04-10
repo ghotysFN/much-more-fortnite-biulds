@@ -8,7 +8,7 @@ Another Note: Season 7+ is possible, just would take more time than the ones I h
 
 Credit: Anyone can post these anywhere, just make sure to give proper credit!
   
-  less GB every build like 13.40 on easyistaller its 80GB now its 38GB
+  less GB every build like 13.40 on easyistaller its 80GB now its 38GB here and alot of build are less GB
 
 #Network map:
 ![image](https://user-images.githubusercontent.com/59186634/226167783-ec5a77db-2969-491c-806f-ed9b02899f7a.png)
