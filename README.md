@@ -1,6 +1,6 @@
 # Fortnite Builds
 Some Fortnite Builds reuploaded and maintained by blk#6964. 
-Credits to DarkenMoon, Sparten, Macko, Crush and Polynite, also Samicc and Fischsalat for the idea.
+Credits to ghostyFN, SpartenFN, lukesFn, and PolyniteFN, also me and Fischsalat for the idea.
 
 Note: This took too much time and money, why did I do this 😭
 
