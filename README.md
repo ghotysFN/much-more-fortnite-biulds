@@ -83,7 +83,7 @@ Credit: Anyone can post these anywhere, just make sure to give proper credit!
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 6.00-CL-4395664         	| 27-09-18       	 | UE4.21-4395664	    |		https://builds.simplyblk.com/6.00.rar|
-| 6.00-CL-4402180      		| 27-09-18         	 | UE4.21-4402180    	    |		next update.|
+| 6.00-CL-4402180      		| 27-09-18         	 | UE4.21-4402180    	    |	https://rebrand.ly/6_00_1	|
 | 6.01-CL-4417689         	| 03-10-18       	 | UE4.21-4417689	    |           https://builds.simplyblk.com/6.01.rar|
 | 6.01-CL-4424678		| 03-10-18		 | UE4.21-4424678	    | 		https://builds.simplyblk.com/6.1.1.rar|
 | 6.02-CL-4442095        	| 10-10-18     		 | UE4.21-4442095    	    | 		https://builds.simplyblk.com/6.02.rar|
