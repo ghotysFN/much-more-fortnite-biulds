@@ -43,7 +43,6 @@ Credit: Anyone can post these anywhere, just make sure to give proper credit!
 | 1.11-CL-3807424         	| 14-12-17		 | UE4.19-3807424	    |		https://builds.simplyblk.com/1.11.zip|
 | 2.1.0-CL-3825894        	| 09-01-18	  	 | UE4.19-3825894	    |		https://builds.simplyblk.com/2.1.0.zip|
 | 2.2.0-CL-3841827        	| 18-01-18	  	 | UE4.19-3841827	    |		https://builds.simplyblk.com/2.2.0.rar|
-| 2.3.0-CL-3847564        	| 25-01-18	  	 | UE4.19-3847564	    |		----- still finding build ----- |
 | 2.4.0-CL-3858292        	| 01-02-18	  	 | UE4.19-3858292	    |		https://builds.simplyblk.com/2.4.0.zip|
 | 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.19-3870737	    |		https://builds.simplyblk.com/2.4.2.zip|
 | 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.20-3889387	    |	        https://builds.simplyblk.com/2.5.0.rar|
