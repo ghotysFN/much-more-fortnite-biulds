@@ -4,7 +4,7 @@ Credits to ghostyFN, SpartenFN, lukesFn, and PolyniteFN, also me and Fischsalat 
 
 Note: This took too much time and money, why did I do this 😭
 
-Another Note: Season 7+ is possible, just would take more time than the ones I have right now, I will probably do on request.
+Another Note: c2 Season2/3 + is possible, just would take more time than the ones I have right now, I will probably do on request.
 
 Credit: Anyone can post these anywhere, just make sure to give proper credit!
   
@@ -120,6 +120,7 @@ Credit: Anyone can post these anywhere, just make sure to give proper credit!
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 10.40-CL-9380822         	| 09-25-19       	 | UE4.23            	    |		https://builds.simplyblk.com/10.40.rar|
+
 
 # Season 12
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
