@@ -116,7 +116,7 @@ Credit: Anyone can post these anywhere, just make sure to give proper credit!
 |9.01-CL-6310630         | 2019-05-13       | UE4.23                 |  https://drive.google.com/open?id=1ErdYaHyI2seghEzFXS2BgxWf1YAdcEMQ
 |9.10-CL-6639283	        | 05-19-19       	 | UE4.23            	    |		https://builds.simplyblk.com/9.10.rar
 |9.41-CL-7315705         | 2019-07-15       | UE4.23                 |  https://drive.google.com/open?id=1TgYPUXs9cW5DTdq7r6QJXTky7qsVZyZT 
-# SEason X
+# Season X
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 10.40-CL-9380822         	| 09-25-19       	 | UE4.23            	    |		https://builds.simplyblk.com/10.40.rar|
@@ -126,6 +126,7 @@ Credit: Anyone can post these anywhere, just make sure to give proper credit!
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 ||12.41-CL-12905909	        | 04-21-20       	 | UE4.25            	    |		https://builds.simplyblk.com/12.41.rar|
 | 12.61-CL-12905909         | 2020-05-22       | UE4.25                 |https://mega.nz/file/O1d1QaYJ#AbLx9kzEd6o6qB5_qDtfBz0NZ_gPIMzI8EOz4VvMRz4
+
 #season 13
 |build                         | Date             |   Engine version    |       Link             | 
 |------------------------------|------------------------ |--------------------------|------------------------------- | 
